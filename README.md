@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
