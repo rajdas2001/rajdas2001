@@ -25,6 +25,8 @@
 
 <p align = "center">
 [![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=black)](https://github.com/pr2tik1/pr2tik1)
+![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=black)
+
 </p>
       
    
