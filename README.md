@@ -22,7 +22,10 @@
    
 <img src="https://github.com/rajdas2001/rajdas2001/blob/master/ws.gif">
 </p>
-   
+
+<p align = "center">
+[![Visits Badge](https://badges.pufler.dev/visits/rajdas2001/rajdas2001?style=for-the-badge&color=black)](https://github.com/rajdas2001/rajdas2001)
+</p>
       
    
 
