@@ -23,7 +23,10 @@
 <img src="https://github.com/rajdas2001/rajdas2001/blob/master/ws.gif">
 </p>
 
-
+- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
       
    
 
