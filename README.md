@@ -1,7 +1,7 @@
 
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj &nbsp;</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<br>
+<p>
 
 <a href="https://www.linkedin.com/in/raj-das-90aa04104/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/linkedin.png" width="40" /></a>
 <a href="https://github.com/rajdas2001"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/github-logo.png" width="40" /></a>
@@ -10,6 +10,7 @@
 <a href="https://twitter.com/RajDas39"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/yeah_iamrajdas/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/instagram.png" width="40" /></a>
 
+</p>
 
 
 
