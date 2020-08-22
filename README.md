@@ -24,7 +24,7 @@
 </p>
 
 <p align = "center">
-[![Visits Badge](https://badges.pufler.dev/visits/rajdas2001/rajdas2001?style=for-the-badge&color=black)](https://github.com/rajdas2001/rajdas2001)
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=black)](https://github.com/pr2tik1/pr2tik1)
 </p>
       
    
