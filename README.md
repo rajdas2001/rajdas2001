@@ -16,18 +16,17 @@
 -->
 </p>
 <p>A 19 year old, pursuing my Bachelor of Technology degree in Metallurgical and Materials Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning, Data Science and Web Designing from Bhubaneswar, India. Apart from these, I love reading Books, Quizzing and writing Poetry. <p>
-
+   <h3>More about me</h3>
+- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
    
 <p align = "center">
    
 <img src="https://github.com/rajdas2001/rajdas2001/blob/master/ws.gif">
 </p>
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-      
    
 
 
