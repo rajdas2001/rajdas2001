@@ -27,10 +27,10 @@
    
  
    
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Deep Learning, Competitive Coding, Data Structures and Algorithms.
+- 🤝 Open for collaborations in Deep Learning, Analytics and Data Science.
+- 😊 Willing to contribute in Open Source development projects.
+- 👍 Looking for opportunities to join as an intern/full time in Deep Learning fields.
 
 
    <p></p>
