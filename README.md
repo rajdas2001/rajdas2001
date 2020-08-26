@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/raj-das-90aa04104/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/linkedin.png" width="40" /></a>
 <a href="https://twitter.com/RajDas39/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/twitter.png" width="40" /></a>
 <a href="https://www.facebook.com/raj.das.315080/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/facebook.png" width="40" /></a>
-<a href="mailto:rajdas.2001@gmail.com"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/google-plus.png" width="40" /></a>
+<a href="mailto:rajdas.2001@gmail.com"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/google.png" width="40" /></a>
 <a href="https://www.instagram.com/yeah_iamrajdas/"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/instagram.png" width="40" /></a>
 <!--
 <a href="https://twitter.com/RajDas39"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/twitter.png" width="40" /></a>
