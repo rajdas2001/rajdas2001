@@ -15,7 +15,7 @@
 <a href="https://twitter.com/RajDas39"><img src="https://github.com/rajdas2001/rajdas2001/blob/master/twitter.png" width="40" /></a>
 -->
 </p>
-<p>A 20 year old, pursuing my Bachelor of Technology degree in Metallurgical and Materials Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning, Data Science and Web Designing from Bhubaneswar, India. Apart from these, I love reading Books, Quizzing and writing Poetry. <p>
+<p>A 21 year old, pursuing my Bachelor of Technology degree in Metallurgical and Materials Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning, Data Science and Web Designing from Bhubaneswar, India. Apart from these, I love reading Books, Quizzing and writing Poetry. <p>
    
    <h3>Tech Stack</h3>
 
