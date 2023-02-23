@@ -1,4 +1,3 @@
-![Background](/new-github-bg.png)
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a>
 
 <h3>Who am I?</h3>
@@ -19,8 +18,6 @@
 
    <p></p>
 <p align = "center">
-   
-<img src="https://github.com/rajdas2001/rajdas2001/blob/master/ws.gif">
 </p>
 
    
