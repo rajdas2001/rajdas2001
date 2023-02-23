@@ -1,4 +1,4 @@
-![Background](new-github-bg.png)
+![Background](/new-github-bg.png)
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a>
 
 <h3>Who am I?</h3>
