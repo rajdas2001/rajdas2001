@@ -1,5 +1,7 @@
-<h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a>
 <img src="https://github.com/rajdas2001/rajdas2001/blob/master/new-github-bg.png">
+
+<h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a>
+
 <p align = "center">
 
 </p>
