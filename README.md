@@ -5,7 +5,7 @@
 <p align = "center">
 
 </p>
-<p>An engineer with a Bachelor of Technology degree in Metallurgical and Materials Engineering from VSSUT, Burla. I am a Technology Enthusiast with an avid interest in Machine Learning, Deep Learning and Data Science from Bhubaneswar, India. Apart from these, I love reading Books, Quizzing and writing Poetry. <p>
+<p>Current: I work as a Data Scientist at Wipro. I am an engineer with an avid interest in Machine Learning, Deep Learning and Data Science from Bhubaneswar, India. Apart from these, I love reading Books and Quizzing. <p>
    
    
    <h3>More about me</h3>
@@ -13,8 +13,8 @@
  
    
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Machine Learning, Deep Learning and Data Science.
-- 😊 Willing to contribute in Open Source development projects.
-- 👍 Looking for opportunities Machine Learning projects.
+- 😊 Willing to contribute to Open Source development projects.
+- 👍 Looking for opportunities in Machine Learning and Deep Learning.
 
 
    <p></p>
