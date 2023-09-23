@@ -5,7 +5,7 @@
 <p align = "center">
 
 </p>
-<p>Current: I work as a Data Scientist at Wipro with a major focus in Natural Language Processing.
+<p>Current: I work as a Data Scientist at Wipro with a major focus on Natural Language Processing.
    <p>I am an engineer with an avid interest in Machine Learning, Deep Learning and Data Science from Bhubaneswar, India. Apart from these, I love reading Books and Quizzing. <p>
    
    
