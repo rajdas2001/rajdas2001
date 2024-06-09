@@ -6,14 +6,14 @@
 
 </p>
 <p>Current: I work as a Data Scientist at Wipro with a major focus on Natural Language Processing.
-   <p>I am an engineer with an avid interest in Machine Learning, Deep Learning and Data Science from Bhubaneswar, India. Apart from these, I love reading Books and Quizzing. <p>
+   <p>I am an engineer with an avid interest in Generative AI, Large Language Models, Machine Learning, Deep Learning and Data Science from Bhubaneswar, India. Apart from these, I love reading Books and Quizzing. <p>
    
    
    <h3>More about me</h3>
    
  
    
-- 👨🏽‍💻 Currently working, learning and growing my skillset in Machine Learning, Deep Learning and Data Science.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Generative AI, Large Language Models, Machine Learning, Deep Learning and Data Science.
 - 😊 Willing to contribute to Open Source development projects.
 - 👍 Looking for opportunities in Machine Learning and Deep Learning.
 
