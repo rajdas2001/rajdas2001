@@ -9,6 +9,7 @@ raj = {
   "code": ["Python", "SQL"],
   "interests": ["Generative AI", "NLP", "Deep Learning", "Machine Learning", "Data Science"],
   "Hobbies": ["Quizzing", "Watching Movies and TV Shows"]
+
 }
 ```
 
