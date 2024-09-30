@@ -2,45 +2,19 @@
 
 <h1>Hey! I am <a href="https://rajdas2001.github.io/rajdas/">Raj</a> </h1>
 
-<p align = "center">
+```python
+raj = {
 
-</p>
-<p>Current: I work as a Data Scientist at Wipro with a major focus on Generative AI and Natural Language Processing.
-   <p>I am an engineer with an avid interest in Generative AI, Large Language Models, Machine Learning, Deep Learning and Data Science from Bhubaneswar, India. Apart from these, I love reading Books and Quizzing. <p>
-   
-   
-   <h3>More about me</h3>
-   
- 
-   
-- 👨🏽‍💻 Currently working, learning and growing my skillset in Generative AI, Large Language Models, Machine Learning, Deep Learning and Data Science.
-- 😊 Willing to contribute to Open Source development projects.
-- 👍 Looking for opportunities in Machine Learning and Deep Learning.
+  "current": "Data Scientist at Wipro, Bengaluru"
+  "code": ["Python", "SQL"],
+  "interests": ["Generative AI", "NLP", "Deep Learning", "Machine Learning", "Data Science"],
+  "Hobbies": ["Quizzing", "Watching Movies and TV Shows"]
+}
+```
 
-
-   <p></p>
-
-<!--
-<p align = "center">
-<img src="https://github.com/rajdas2001/rajdas2001/blob/master/ws.gif">
-</p>
---> 
 
    <p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frajdas2001&labelColor=%23697689&countColor=%23dce775)
 
-<!--
-**rajdas2001/rajdas2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
