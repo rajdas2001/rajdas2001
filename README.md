@@ -5,7 +5,7 @@
 ```python
 raj = {
 
-  "current": "Data Scientist at Wipro, Bengaluru",
+  "current": "Generative AI Analyst at Accenture Strategy & Consulting, Bengaluru",
   "code": ["Python", "SQL"],
   "interests": ["Generative AI", "NLP", "Deep Learning", "Machine Learning", "Data Science"],
   "hobbies": ["Quizzing", "Watching Movies and TV Shows"]
